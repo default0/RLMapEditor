@@ -1,0 +1,7 @@
+{
+    "name": "RLMapEditor",
+    "description": null,
+    "projects": {
+        "RLMapEditor": "RLMapEditor/dub.json"
+    }
+}

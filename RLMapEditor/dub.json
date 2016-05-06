@@ -1,0 +1,9 @@
+{
+    "name": "RLMapEditor",
+    "targetName": "RLMapEditor",
+    "targetType": "executable",
+    "targetPath": "bin",
+    "dependencies": {
+        "dlangui": "~>0.8.19"
+    }
+}
