@@ -7,8 +7,10 @@
 			"derelict-sdl2": "2.0.0",
 			"dlangui": "0.8.23",
 			"dsfml": "2.1.1",
-			"derelict-gl3": "1.0.18"
+			"unit-threaded": "0.6.12",
+			"derelict-gl3": "1.0.18",
+			"cerealed": "0.6.4"
 		},
-		"lastUpgrade": "2016-05-05T22:47:11.7512533"
+		"lastUpgrade": "2016-05-16T09:25:53.8974739"
 	}
 }

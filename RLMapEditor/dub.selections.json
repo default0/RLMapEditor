@@ -1,12 +1,14 @@
 {
 	"fileVersion": 1,
 	"versions": {
+		"cerealed": "0.6.4",
 		"x11": "1.0.14",
 		"derelict-ft": "1.1.2",
 		"derelict-sdl2": "2.0.0",
 		"derelict-util": "2.0.6",
-		"dlangui": "0.8.19",
-		"dsfml": "2.1.0",
+		"unit-threaded": "0.6.11",
+		"dlangui": "0.8.23",
+		"dsfml": "2.1.1",
 		"derelict-gl3": "1.0.18"
 	}
 }
